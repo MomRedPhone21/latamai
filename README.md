@@ -39,3 +39,4 @@ npm run dev
 - Mejorar el UI Chat y Homepage, para mayor accesibilidad
 - Implementar Sistema dark/light mode pero con la temática de los paises de LATAM y el Caribe.
 - Implementar un modelo unico existencial en el planeta solo para LATAM y el Caribe, osea, $$ (Traté de emular algo en python pero.. la intención cuenta..)
+- Añadir logica para los sources.
