@@ -1,0 +1,88 @@
+.trigger {
+  min-width: 190px;
+  border: 1px solid var(--cta-border);
+  background: var(--cta-bg);
+  color: var(--cta-text);
+  box-shadow: var(--cta-shadow);
+  transition: transform 180ms ease, filter 180ms ease, box-shadow 180ms ease;
+}
+
+.trigger:hover {
+  transform: translateY(-1px);
+  background: var(--cta-bg-hover);
+}
+
+.trigger:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--cta-border) 72%, white 28%);
+  outline-offset: 2px;
+}
+
+.trigger:disabled {
+  cursor: wait;
+  filter: saturate(0.9);
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 120;
+  background: var(--overlay-backdrop);
+  backdrop-filter: blur(8px);
+  display: grid;
+  place-items: center;
+  animation: fadeIn 0.35s ease-out forwards;
+}
+
+.panel {
+  width: min(460px, 86vw);
+  border-radius: 20px;
+  border: 1px solid var(--overlay-panel-border);
+  background: var(--overlay-panel-bg);
+  box-shadow: 0 24px 48px rgba(8, 7, 6, 0.3);
+  padding: 1.2rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  animation: rise 0.35s ease-out forwards;
+}
+
+.panel p {
+  color: var(--overlay-panel-text);
+  font-weight: 700;
+}
+
+.spinner {
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  border: 2px solid var(--overlay-spinner-soft);
+  border-top-color: var(--overlay-spinner);
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes rise {
+  from {
+    transform: translateY(8px) scale(0.98);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

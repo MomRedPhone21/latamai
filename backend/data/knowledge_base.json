@@ -1,0 +1,152 @@
+[
+  {
+    "id": "wb-cl-hdi-context",
+    "title": "Chile: contexto de desarrollo humano",
+    "content": "Chile suele ubicarse entre los paises con mayor desarrollo humano de Sudamerica en reportes recientes del PNUD.",
+    "topic": "hdi",
+    "country": ["chile"],
+    "source_name": "UNDP HDR",
+    "source_url": "https://hdr.undp.org/data-center/human-development-index",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "wb-uy-hdi-context",
+    "title": "Uruguay: desarrollo humano alto",
+    "content": "Uruguay tambien aparece de forma recurrente en el grupo de mayor desarrollo humano de la region.",
+    "topic": "hdi",
+    "country": ["uruguay"],
+    "source_name": "UNDP HDR",
+    "source_url": "https://hdr.undp.org/data-center/human-development-index",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "wb-ar-hdi-context",
+    "title": "Argentina: desarrollo humano alto",
+    "content": "Argentina registra niveles de desarrollo humano altos en comparacion regional, con brechas internas territoriales.",
+    "topic": "hdi",
+    "country": ["argentina"],
+    "source_name": "UNDP HDR",
+    "source_url": "https://hdr.undp.org/data-center/human-development-index",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "wb-br-forest",
+    "title": "Brasil: superficie forestal",
+    "content": "Brasil concentra una gran porcion de bosque tropical de la region, con presion por cambio de uso de suelo.",
+    "topic": "biodiversidad",
+    "country": ["brasil"],
+    "source_name": "World Bank WDI",
+    "source_url": "https://api.worldbank.org/v2/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "wb-co-birds",
+    "title": "Colombia: riqueza y riesgo de biodiversidad",
+    "content": "Colombia es uno de los paises megadiversos y mantiene retos de conservacion por fragmentacion de habitats.",
+    "topic": "biodiversidad",
+    "country": ["colombia"],
+    "source_name": "World Bank WDI",
+    "source_url": "https://api.worldbank.org/v2/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "obis-cl-marine",
+    "title": "Chile: biodiversidad marina",
+    "content": "La costa chilena integra ecosistemas de alta productividad asociados al sistema de Humboldt y zonas australes.",
+    "topic": "fauna marina",
+    "country": ["chile"],
+    "source_name": "OBIS",
+    "source_url": "https://api.obis.org/",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "obis-pe-marine",
+    "title": "Peru: productividad marina",
+    "content": "Peru destaca por alta productividad pesquera y diversidad marina ligada a la corriente de Humboldt.",
+    "topic": "fauna marina",
+    "country": ["peru"],
+    "source_name": "OBIS",
+    "source_url": "https://api.obis.org/",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "obis-ec-marine",
+    "title": "Ecuador: costa y Galapagos",
+    "content": "Ecuador combina biodiversidad costera continental y ecosistemas oceanicos de alta singularidad en Galapagos.",
+    "topic": "fauna marina",
+    "country": ["ecuador"],
+    "source_name": "OBIS",
+    "source_url": "https://api.obis.org/",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "culture-andes",
+    "title": "Cultura andina",
+    "content": "Peru, Bolivia, Ecuador, Chile y Argentina comparten tradiciones andinas con diversidad linguistica y festiva.",
+    "topic": "cultura",
+    "country": ["peru", "bolivia", "ecuador", "chile", "argentina"],
+    "source_name": "UNESCO",
+    "source_url": "https://www.unesco.org/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "culture-caribbean",
+    "title": "Patrimonio cultural caribeno",
+    "content": "El Caribe latino presenta herencias afrodescendientes, indigenas y europeas en musica, lengua y gastronomia.",
+    "topic": "cultura",
+    "country": ["cuba", "republica dominicana", "jamaica", "haiti"],
+    "source_name": "UNESCO",
+    "source_url": "https://www.unesco.org/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "defense-conosur",
+    "title": "Defensa en el Cono Sur",
+    "content": "Argentina, Chile y Uruguay mantienen cooperacion en operaciones de paz, ayuda humanitaria y ejercicios combinados.",
+    "topic": "defensa",
+    "country": ["argentina", "chile", "uruguay"],
+    "source_name": "CEPAL / documentos publicos",
+    "source_url": "https://www.cepal.org/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "hdi-regional-gap",
+    "title": "Brechas regionales de desarrollo humano",
+    "content": "LATAM y el Caribe muestran mejoras agregadas en desarrollo humano, pero con brechas persistentes entre paises y territorios.",
+    "topic": "hdi",
+    "country": ["latam", "caribe"],
+    "source_name": "UNDP HDR",
+    "source_url": "https://hdr.undp.org/",
+    "as_of_date": "2025"
+  },
+  {
+    "id": "bio-amazonia",
+    "title": "Amazonia y presion ambiental",
+    "content": "La Amazonia sostiene una biodiversidad critica para la region y enfrenta presion por deforestacion e incendios.",
+    "topic": "biodiversidad",
+    "country": ["brasil", "peru", "colombia", "bolivia", "ecuador", "venezuela", "guyana", "suriname"],
+    "source_name": "World Bank WDI",
+    "source_url": "https://api.worldbank.org/v2/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "bio-protected-areas",
+    "title": "Areas protegidas en la region",
+    "content": "La expansion de areas protegidas terrestres y marinas avanza de forma desigual entre paises de Latinoamerica y el Caribe.",
+    "topic": "biodiversidad",
+    "country": ["latam", "caribe"],
+    "source_name": "World Bank WDI",
+    "source_url": "https://api.worldbank.org/v2/",
+    "as_of_date": "2024"
+  },
+  {
+    "id": "marine-caribbean",
+    "title": "Caribe: ecosistemas marinos",
+    "content": "Arrecifes, manglares y pastos marinos del Caribe son clave para biodiversidad, turismo y proteccion costera.",
+    "topic": "fauna marina",
+    "country": ["caribe"],
+    "source_name": "OBIS",
+    "source_url": "https://api.obis.org/",
+    "as_of_date": "2025"
+  }
+]
